@@ -1,0 +1,10 @@
+Link Collab -
+
+https://colab.research.google.com/drive/13CIbTcrrf_qSM2KwlJC21_3v432Bj3p8?usp=sharing
+
+-----
+
+Link Dataset - 
+
+
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
